@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-I like C and systems programming (Go also seems nice)
+-Oh yeah i also like telemetry data traveling through the network
+-OH yeah also I forgot, I like making devices communicate with eachother be it via internet or radio
+-One last thing, I like to spy on satellites that fly over my head
 <!--
 **vixxi77/vixxi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
