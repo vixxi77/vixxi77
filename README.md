@@ -7,6 +7,7 @@
 - OH yeah also I forgot, I like making devices communicate with eachother be it via internet or radio
 - I like to spy on satellites that fly over my head
 - [RF/Embedded(Linux)/Backend/C/C++/Rust/Go/C#/.NET/ESP32/STM32/OpenWRT/x86] (ARM & RISC-V soon)
+- Following [Ben Eater's](https://www.youtube.com/@BenEater) tutorial series both on [8-bit CPU](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU) and [6502 Computer](https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
 
 <!--
 **vixxi77/vixxi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
