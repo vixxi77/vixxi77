@@ -8,7 +8,6 @@
 - I like to spy on satellites that fly over my head
 - [RF/Embedded(Linux)/Backend/C/C++/Rust/Go/C#/.NET/ESP32/STM32/OpenWRT/x86] (ARM & RISC-V soon)
 
-### ____________
 <!--
 **vixxi77/vixxi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
