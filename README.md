@@ -2,6 +2,4 @@
 
 
 
-![satellite](https://github.com/user-attachments/assets/ccc67d3b-3a3a-4fdb-87c7-0b32deb3dcca)
-
-
+![satellite1](https://github.com/user-attachments/assets/ac444ed2-0430-4ea2-a383-c94673e30def)
