@@ -5,6 +5,6 @@
 ![satellite1](https://github.com/user-attachments/assets/ac444ed2-0430-4ea2-a383-c94673e30def)
 
 ## Open Source Contributions
-- Godot Game Engine GDScript Tokenizer/Parser Bug Fix [PR #118111](https://github.com/godotengine/godot/pull/118111)
+- Godot Game Engine GDScript Tokenizer/Parser Bug Fix [PR #118111] (Merged)(https://github.com/godotengine/godot/pull/118111)
 
 
